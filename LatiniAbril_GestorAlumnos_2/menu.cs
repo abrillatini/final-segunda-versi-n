@@ -74,7 +74,7 @@ namespace LatiniAbril_GestorAlumnos_2
 
                 Alumno alu = new Alumno();
 
-                // ✅ CAMBIO: llamada unificada de legajo (AGREGAR)
+               
                 alu.Legajo = PedirLegajoParaAgregar(lista, "Legajo");
                 if (alu.Legajo == null) return; //si se presiona cancelar, se corta el ingreso y vuelve al menú
 
@@ -87,7 +87,7 @@ namespace LatiniAbril_GestorAlumnos_2
                 alu.NumeroDocumento = PedirNoVacio("Número de Documento");
                 if (alu.NumeroDocumento == null) return; //si se presiona cancelar, se corta el ingreso y vuelve al menú
 
-                // ✅ AHORA: si el mail es inválido, SOLO se vuelve a pedir el mail (no reinicia todo)
+                // solo pide el mail de nuevo
                 alu.Email = PedirEmail(); //método para evitar ingreso de datos nulo
                 if (alu.Email == null) return; //si se presiona cancelar, se corta el ingreso y vuelve al menú
 
@@ -244,7 +244,6 @@ namespace LatiniAbril_GestorAlumnos_2
             }
         }
 
-        // ✅ Nuevo método: pide email y si no tiene @ solo repite el email
         private static string PedirEmail()
         {
             string email;
@@ -534,7 +533,7 @@ namespace LatiniAbril_GestorAlumnos_2
             MessageBox.Show("=== AGREGAR NUEVO ALUMNO ===");
 
             // hago una validación para que no haya un legajo igual
-            // ✅ CAMBIO: llamada unificada de legajo (AGREGAR)
+           
             string legajo = PedirLegajoParaAgregar(alumnos, "Legajo (nuevo)");
             if (legajo == null) return;
 
@@ -577,7 +576,7 @@ namespace LatiniAbril_GestorAlumnos_2
         {
             MessageBox.Show("=== MODIFICAR ALUMNO ===");
 
-            // ✅ CAMBIO: llamada unificada de legajo (MODIFICAR)
+          
             Alumno alu = PedirAlumnoParaModificar(alumnos, "Legajo del alumno a modificar");
             if (alu == null) return;
 
@@ -633,7 +632,7 @@ namespace LatiniAbril_GestorAlumnos_2
         {
             MessageBox.Show("=== ELIMINAR ALUMNO ===");
 
-            // ✅ CAMBIO: llamada unificada de legajo (ELIMINAR usa la misma que MODIFICAR)
+           
             Alumno alu = PedirAlumnoParaModificar(alumnos, "Legajo del alumno a eliminar");
             if (alu == null) return;
 
@@ -1147,6 +1146,7 @@ namespace LatiniAbril_GestorAlumnos_2
         }
     }
 }
+
 
 
 
