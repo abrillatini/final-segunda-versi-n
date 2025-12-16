@@ -1,0 +1,32 @@
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.Form1.resources
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.csproj.GenerateResource.cache
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.AssemblyInfoInputs.cache
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.AssemblyInfo.cs
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.csproj.CoreCompileInputs.cache
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.exe
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.deps.json
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.runtimeconfig.json
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.pdb
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\refint\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.pdb
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.genruntimeconfig.cache
+C:\Users\abril\Downloads\final programación\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\ref\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.exe
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.deps.json
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.runtimeconfig.json
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\bin\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.pdb
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.Form1.resources
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.csproj.GenerateResource.cache
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.AssemblyInfoInputs.cache
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.AssemblyInfo.cs
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.csproj.CoreCompileInputs.cache
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\refint\LatiniAbril_GestorAlumnos_2.dll
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.pdb
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\LatiniAbril_GestorAlumnos_2.genruntimeconfig.cache
+C:\Users\abril\Downloads\LatiniAbril_GestorAlumnos_2\LatiniAbril_GestorAlumnos_2\obj\Debug\net8.0-windows\ref\LatiniAbril_GestorAlumnos_2.dll
